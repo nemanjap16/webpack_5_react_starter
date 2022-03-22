@@ -1,0 +1,10 @@
+body {
+  min-height: 100vh;
+  background-color: red;
+  display: grid;
+  place-content: center;
+
+  h1 {
+    color: #fff;
+  }
+}
